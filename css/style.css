@@ -1,0 +1,4 @@
+@charaset "utf-8";
+body           { font-family: 'メイリオ', 'Hiragino Kaku Gothic Pro', font-size: 24px; }
+h2 { color: #ff0000; }
+.right { text-align: right; }
